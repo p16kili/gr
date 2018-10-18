@@ -7,8 +7,5 @@ After considering technologies such as wire matrices, rod arrays, drums, drum ar
 The disk drive created a new level in the computer data hierarchy, then termed Random Access Storage but today known as secondary storage, less expensive and slower than main memory (then typically drums) but faster and more expensive than tape drives.'
 license_url:
 license_text: Wikipedia
-categories:
-  - 
-tags:
-  - 
+
 ---
