@@ -1,11 +1,14 @@
 ---
-author: Wiki
-image_url: /images/disc-reader-reading-arm-hard-drive.jpg
-caption: Το 1953, η IBM αναγνώρισε την άμεση εφαρμογή για αυτό που ονομάστηκε "Random Access File" με υψηλή χωρητικότητα και ταχεία τυχαία πρόσβαση με σχετικά χαμηλό κόστος.
-Αφού εξέτασαν τεχνολογίες όπως μήτρες σύρματος, συστοιχίες ράβδων, τύμπανα, συστοιχίες τυμπάνων κλπ., oι μηχανικοί του εργαστηρίου της IBM στο San Jose της Καλιφόρνιας εφευρέθηκαν τη μονάδα σκληρού δίσκου.
-Η μονάδα δίσκου δημιούργησε ένα νέο επίπεδο στην ιεραρχία δεδομένων υπολογιστών και στη συνέχεια ονομάστηκε αποθήκευση τυχαίας προσπέλασης, αλλά σήμερα είναι γνωστή ως δευτερεύων αποθήκευτικος χωρος, λιγότερο δαπανηρή και πιο αργή από την κύρια μνήμη , αλλά ταχύτερη και ακριβότερη από τις μονάδες μαγνητοταινίας.
+author: evabat
 title: hard-drive
+image_url: /images/disc-reader-reading-arm-hard-drive.jpg
+caption: 'In 1953, IBM recognized the immediate application for what it termed a "Random Access File" having high capacity and rapid random access at a relatively low cost.
+After considering technologies such as wire matrices, rod arrays, drums, drum arrays, etc., the engineers at IBM's San Jose California laboratory invented the hard disk drive.
+The disk drive created a new level in the computer data hierarchy, then termed Random Access Storage but today known as secondary storage, less expensive and slower than main memory (then typically drums) but faster and more expensive than tape drives.'
+license_url:
+license_text: Wikipedia
 categories:
-  - definition
+  - 
+tags:
+  - 
 ---
-
