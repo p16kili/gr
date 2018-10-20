@@ -1,3 +1,21 @@
-# Website for Making Interactivity book
+Μάθημα: Επικοινωνία Ανθώπου-Υπολογιστή
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Ονοματεπώνυμο: Γιούρι Κιλινκαρίδης
+
+Αριθμός Μητρώου: Π2016130
+
+Εργασία Περιεχομένου
+
+εκτελέσιμο link https://p16kili.github.io/gr
+
+link αποθετηρίου https://github.com/p16kili/gr
+
+Δραστηριότητα 1.Α
+
+Ζητούμενα links προσθήκης εικόνων ή και αλλαγών
+link  αρχείου config.yml https://github.com/p16kili/gr/blob/gh-pages/_config.yml
+link https://p16kili.github.io/gr/gallery/first-wireless-mouse/
+link https://p16kili.github.io/gr/gallery/hard-drive/
+link https://p16kili.github.io/gr/gallery/hp-320lx/
+link https://p16kili.github.io/gr/gallery/server/
+link https://p16kili.github.io/gr/gallery/quadrocopter/
