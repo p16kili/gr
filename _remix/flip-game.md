@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 title: Flip Card Memory Game.
 header: no
