@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 title: Dynamic Point Mesh Animation
 header: no
